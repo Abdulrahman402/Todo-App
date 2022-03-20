@@ -1,7 +1,8 @@
 # Todo-App
 
 # First run:
-npm i, npm i nodemon --save-dev
+npm i & npm i nodemon --save-dev
+npm run dev
 
 # Note:
 At the first try you may get "message": "Authentication failed" since authentication added.
